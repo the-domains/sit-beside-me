@@ -1,6 +1,6 @@
 name: Sit Beside Me
 favicon: null
-layout_spectrum: 0.5759744802489877
+layout_spectrum: 1
 typography_spectrum: 0.8324584597721696
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.11001641675829887
-  lightness: 0.8151448222342879
+    - '#8e3017'
+    - '#462a1c'
+    - '#090907'
+    - '#a2623f'
+    - '#677f79'
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.0003257002681493759
-  rhythmicContrast: 0.0017077864613384008
+  rhythmicContrast: 0.5
 purpose: []
