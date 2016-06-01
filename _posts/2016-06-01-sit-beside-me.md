@@ -1,13 +1,22 @@
 ---
-dateModified: '2016-06-01T10:06:43.884Z'
-description: ''
-inFeed: true
-title: ''
-author: []
-starred: false
-datePublished: '2016-06-01T10:07:08.559Z'
-isBasedOnUrl: 'https://player.vimeo.com/video/93120546"'
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: View Sit Beside Me online here
+datePublished: '2016-06-01T22:19:39.636Z'
+dateModified: '2016-06-01T22:18:21.679Z'
+title: Sit Beside Me
+author:
+  - name: ''
+    url: 'http://vimeo.com/user14540483'
+    avatar: {}
 sourcePath: _posts/2016-06-01-sit-beside-me.md
+authors: []
+publisher: null
+starred: false
+url: sit-beside-me/index.html
 _context: 'http://schema.org'
 _type: Article
 
