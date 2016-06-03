@@ -1,4 +1,24 @@
+name: Sit Beside Me
+favicon: null
+layout_spectrum: 0.25787158170714974
 typography_spectrum: 0.36891598417423666
+author:
+  name: ''
+  email: ''
+  url: ''
+title: sit beside me
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6138'
@@ -7,27 +27,7 @@ color:
     - '#79BD8F'
     - '#00A388'
   brandStrength: 0.5496767114382237
-  lightness: 0.6039688899181783
+  lightness: 0.3125
   saturation: 0.5163080380298197
   rhythmicContrast: 0.9900085253175348
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.25787158170714974
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: ''
-  email: ''
-  url: ''
-name: Sit Beside Me
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: sit beside me
 purpose: []
