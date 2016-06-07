@@ -1,6 +1,6 @@
 name: Sit Beside Me
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.81149
 typography_spectrum: 0.36891598417423666
 author:
   name: ''
@@ -26,7 +26,7 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-  brandStrength: 0.625
+  brandStrength: 0.6875
   lightness: 0.3125
   saturation: 0.5163080380298197
   rhythmicContrast: 0.9900085253175348
