@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: view film
-datePublished: '2016-06-10T16:02:51.465Z'
-dateModified: '2016-06-10T16:02:02.604Z'
+datePublished: '2016-06-10T16:05:05.669Z'
+dateModified: '2016-06-10T16:03:10.525Z'
 sourcePath: _posts/2016-06-01-sit-beside-me.md
 author:
   - name: ''
@@ -15,7 +15,7 @@ author:
 title: Sit Beside Me
 authors: []
 publisher: null
-starred: false
+starred: true
 url: sit-beside-me/index.html
 _context: 'http://schema.org'
 _type: Article
