@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-06-10T13:57:10.401Z'
-sourcePath: _posts/2016-06-01-sit-beside-me.md
 inFeed: false
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: view film
+datePublished: '2016-06-10T14:02:35.953Z'
+dateModified: '2016-06-10T14:02:30.104Z'
+sourcePath: _posts/2016-06-01-sit-beside-me.md
 author:
   - name: ''
     url: 'http://vimeo.com/user14540483'
     avatar: {}
-dateModified: '2016-06-10T13:55:09.206Z'
 title: Sit Beside Me
+authors: []
 publisher: null
-description: view film
-inLanguage: null
-inNav: true
 starred: false
 url: sit-beside-me/index.html
 _context: 'http://schema.org'
