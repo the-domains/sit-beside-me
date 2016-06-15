@@ -1,13 +1,20 @@
 ---
-datePublished: '2016-06-15T07:09:59.779Z'
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://vimeo.com/101730250'
+inLanguage: null
 keywords: []
+description: >-
+  This is "Sit Beside Me | Siéntate junto a mí" by on Vimeo, the home for high
+  quality videos and the people who love them.
+datePublished: '2016-06-15T07:10:54.195Z'
+dateModified: '2016-06-15T07:10:49.289Z'
 related: []
 author:
   - name: view film here
     url: 'http://vimeo.com/user14540483'
     avatar: {}
-dateModified: '2016-06-15T07:09:58.591Z'
 title: Sit Beside Me | Siéntate junto a mí
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/101730250'
@@ -36,19 +43,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-description: >-
-  This is "Sit Beside Me | Siéntate junto a mí" by on Vimeo, the home for high
-  quality videos and the people who love them.
 sourcePath: _posts/2016-06-15-sit-beside-me-or-sientate-junto-a-mi.md
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: VideoObject
 
