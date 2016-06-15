@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-15T07:09:07.780Z'
+datePublished: '2016-06-15T07:09:59.779Z'
 isBasedOnUrl: 'https://vimeo.com/101730250'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: view film here
     url: 'http://vimeo.com/user14540483'
     avatar: {}
-dateModified: '2016-06-15T07:08:54.081Z'
+dateModified: '2016-06-15T07:09:58.591Z'
 title: Sit Beside Me | Siéntate junto a mí
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/101730250'
@@ -44,8 +44,8 @@ publisher:
 description: >-
   This is "Sit Beside Me | Siéntate junto a mí" by on Vimeo, the home for high
   quality videos and the people who love them.
-starred: false
 sourcePath: _posts/2016-06-15-sit-beside-me-or-sientate-junto-a-mi.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
