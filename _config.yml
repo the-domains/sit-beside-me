@@ -1,24 +1,4 @@
-name: Sit Beside Me
-favicon: null
-layout_spectrum: 0.81149
 typography_spectrum: 0.36891598417423666
-author:
-  name: Pravaha films
-  email: ''
-  url: 'http://thegrid.ai/pravaha-films/'
-title: sit beside me
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6138'
@@ -30,4 +10,29 @@ color:
   lightness: 0.5
   saturation: 0.0625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.81149
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Pravaha films
+  email: ''
+  url: 'http://thegrid.ai/pravaha-films/'
+name: Sit Beside Me
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 15f719a5-f2b8-42b8-a09d-0cb0481076bf
+    url: 2016-06-15-sit-beside-me-or-sientate-junto-a-mi.html
+    name: view film
+    type: content
+favicon: null
+title: sit beside me
 purpose: []
