@@ -41,6 +41,10 @@ navigation:
     url: 2016-06-01-press-kit.html
     name: press kit
     type: content
+  - id: 80d1a683-0a32-4672-865c-f23c21d37509
+    url: 2016-06-01-about.html
+    name: about
+    type: content
 favicon: null
 title: sit beside me
 purpose: []
