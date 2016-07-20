@@ -33,6 +33,10 @@ navigation:
     url: 2016-06-15-sit-beside-me-or-sientate-junto-a-mi.html
     name: view film
     type: content
+  - id: b9bf0802-491b-4184-bd83-1092e7add5c5
+    url: 2016-06-01-b9bf0802-491b-4184-bd83-1092e7add5c5.html
+    name: gallery
+    type: content
 favicon: null
 title: sit beside me
 purpose: []
