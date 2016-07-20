@@ -1,17 +1,16 @@
 ---
+datePublished: '2016-07-20T10:03:21.809Z'
+sourcePath: _posts/2016-06-15-sit-beside-me-or-sientate-junto-a-mi.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: This is "Sit Beside Me | Siéntate junto a mí" by Pravaha film
-datePublished: '2016-06-18T12:52:57.026Z'
-dateModified: '2016-06-18T12:50:54.906Z'
 related: []
 author:
   - name: ''
     url: ''
     avatar: {}
+dateModified: '2016-07-20T10:03:21.342Z'
 title: view film
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/101730250'
@@ -40,13 +39,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-sourcePath: _posts/2016-06-15-sit-beside-me-or-sientate-junto-a-mi.md
-authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+description: This is "Sit Beside Me | Siéntate junto a mí" by Pravaha film
+inLanguage: null
+inNav: true
 starred: false
 url: view-film-here/index.html
 _context: 'http://schema.org'
