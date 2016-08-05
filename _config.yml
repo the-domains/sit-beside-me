@@ -1,4 +1,25 @@
+name: Sit Beside Me
+favicon: null
+layout_spectrum: 0.81149
 typography_spectrum: 0.36891598417423666
+author:
+  name: ''
+  email: ''
+  url: 'http://thegrid.ai/pravaha-films/'
+navigation: []
+title: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-81046230-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6138'
@@ -10,25 +31,4 @@ color:
   lightness: 0.5
   saturation: 0.0625
   rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.81149
-analytics:
-  google: UA-81046230-1
-  facebook: null
-  twitter: null
-author:
-  name: ''
-  email: ''
-  url: 'http://thegrid.ai/pravaha-films/'
-name: Sit Beside Me
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation: []
-favicon: null
-title: ''
 purpose: []
