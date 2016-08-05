@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sit Beside Me]]></title>
         <description><![CDATA[Sit Beside Me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sit-beside-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 09:14:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 09:14:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sit-beside-me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5209885d-832f-4b9b-a7af-c105246f7889.jpg">]]></description>
-            <link>undefined03b98cfb-d861-4405-ac06-0978c0d72e3c/index.html</link>
+            <link>https://thegrid.ai/sit-beside-me/03b98cfb-d861-4405-ac06-0978c0d72e3c/index.html</link>
             <guid isPermaLink="false">03b98cfb-d861-4405-ac06-0978c0d72e3c</guid>
-            <pubDate>Fri, 05 Aug 2016 09:13:41 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 09:13:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
