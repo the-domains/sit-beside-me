@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sit Beside Me]]></title>
-        <description><![CDATA[Sit Beside Me]]></description>
+        <title><![CDATA[sit beside me]]></title>
+        <description><![CDATA[sit beside me]]></description>
         <link>https://thegrid.ai/sit-beside-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 09:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 12:37:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sit-beside-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[about]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e3c79ae1bd262ae74b9bc3f3f162623c359721d.jpg">]]></description>
+            <link>https://thegrid.ai/sit-beside-me/about/index.html</link>
+            <guid isPermaLink="false">80d1a683-0a32-4672-865c-f23c21d37509</guid>
+            <pubDate>Fri, 05 Aug 2016 12:37:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5209885d-832f-4b9b-a7af-c105246f7889.jpg">]]></description>
