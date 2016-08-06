@@ -29,14 +29,14 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: about
-    id: 80d1a683-0a32-4672-865c-f23c21d37509
-    type: content
   - name: view film
     id: 15f719a5-f2b8-42b8-a09d-0cb0481076bf
     type: content
   - name: press kit
     id: 47ee791e-bb52-4b50-a746-1fdbf8a0306a
+    type: content
+  - name: about
+    id: 80d1a683-0a32-4672-865c-f23c21d37509
     type: content
   - name: gallery
     id: b9bf0802-491b-4184-bd83-1092e7add5c5
