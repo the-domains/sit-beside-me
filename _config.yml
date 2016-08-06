@@ -35,6 +35,9 @@ navigation:
   - name: press kit
     id: 47ee791e-bb52-4b50-a746-1fdbf8a0306a
     type: content
+  - name: gallery
+    id: b9bf0802-491b-4184-bd83-1092e7add5c5
+    type: content
 favicon: null
 title: sit beside me
 purpose: []
