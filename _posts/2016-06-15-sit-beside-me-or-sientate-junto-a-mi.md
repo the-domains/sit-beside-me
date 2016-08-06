@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is "Sit Beside Me | Siéntate junto a mí" by Pravaha film
-datePublished: '2016-08-06T10:14:48.756Z'
-dateModified: '2016-08-05T20:40:51.195Z'
+datePublished: '2016-08-06T10:16:07.888Z'
+dateModified: '2016-08-06T10:16:07.111Z'
 sourcePath: _posts/2016-06-15-sit-beside-me-or-sientate-junto-a-mi.md
 related: []
 author:
@@ -43,11 +43,7 @@ app_links:
     id: com.vimeo.android.videoapp
 via: {}
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: true
 url: view-film/index.html
 _context: 'http://schema.org'
