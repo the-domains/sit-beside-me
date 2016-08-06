@@ -1,25 +1,4 @@
-name: SitBesideMe
-favicon: null
-layout_spectrum: 0.4936668847221881
 typography_spectrum: 0.6499382245820016
-author:
-  name: ''
-  email: ''
-  url: ''
-navigation: []
-title: sit beside me
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-81046230-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#450003'
@@ -31,4 +10,28 @@ color:
   lightness: 0.2110294837038964
   saturation: 0.9708329641725868
   rhythmicContrast: 0.03632222185842693
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4936668847221881
+analytics:
+  google: UA-81046230-1
+  facebook: null
+  twitter: null
+author:
+  name: ''
+  email: ''
+  url: ''
+name: SitBesideMe
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: view film
+    id: 15f719a5-f2b8-42b8-a09d-0cb0481076bf
+    type: content
+favicon: null
+title: sit beside me
 purpose: []
