@@ -41,6 +41,9 @@ navigation:
   - name: home
     id: 03b98cfb-d861-4405-ac06-0978c0d72e3c
     type: content
+  - name: ' gallery'
+    id: b9bf0802-491b-4184-bd83-1092e7add5c5
+    type: content
 favicon: null
 title: sit beside me
 purpose: []
