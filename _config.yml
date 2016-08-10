@@ -1,4 +1,12 @@
+name: SitBesideMe
+layout_spectrum: 0.4936668847221881
 typography_spectrum: 0.6499382245820016
+cta: {}
+analytics:
+  google: UA-81046230-1
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#450003'
@@ -10,24 +18,14 @@ color:
   lightness: 0.2110294837038964
   saturation: 0.9708329641725868
   rhythmicContrast: 0.03632222185842693
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.4936668847221881
-analytics:
-  google: UA-81046230-1
-  facebook: null
-  twitter: null
+purpose: []
+title: sit beside me
 author:
   name: ''
-  email: ''
   url: ''
-name: SitBesideMe
-cta:
-  domain: null
-  bucket: null
-  version: null
+  email: ''
+content_rating:
+  adult: false
 navigation:
   - name: home
     id: 03b98cfb-d861-4405-ac06-0978c0d72e3c
@@ -47,6 +45,3 @@ navigation:
   - name: contact
     id: 0a20d189-f171-4aed-945b-423bee0d4a42
     type: content
-favicon: null
-title: sit beside me
-purpose: []
