@@ -29,6 +29,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: home
+    id: 03b98cfb-d861-4405-ac06-0978c0d72e3c
+    type: content
   - name: view film
     id: 4b58e0f2-c2e1-4109-9648-c4b87b8cb149
     type: content
@@ -40,9 +43,6 @@ navigation:
     type: content
   - name: press kit
     id: 47ee791e-bb52-4b50-a746-1fdbf8a0306a
-    type: content
-  - name: home
-    id: 03b98cfb-d861-4405-ac06-0978c0d72e3c
     type: content
 favicon: null
 title: sit beside me
