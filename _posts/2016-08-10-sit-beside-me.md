@@ -1,16 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Sit beside me
-datePublished: '2016-08-10T08:46:44.807Z'
-dateModified: '2016-08-10T08:46:44.245Z'
+datePublished: '2016-08-10T08:48:44.837Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 related: []
 author: []
 via: {}
+dateModified: '2016-08-10T08:48:44.448Z'
 title: ''
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/91394319'
@@ -39,12 +37,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-authors: []
 publisher: {}
+description: Sit beside me - view film
+inLanguage: null
+inNav: false
 starred: false
 url: sit-beside-me/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![Sit beside me](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3002b72-07aa-4e61-b064-f21dc0914118.jpg)
+![Sit beside me - view film](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3002b72-07aa-4e61-b064-f21dc0914118.jpg)
