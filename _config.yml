@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: view film
+    id: 4b58e0f2-c2e1-4109-9648-c4b87b8cb149
+    type: content
 favicon: null
 title: sit beside me
 purpose: []
