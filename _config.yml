@@ -38,6 +38,9 @@ navigation:
   - name: contact
     id: 0a20d189-f171-4aed-945b-423bee0d4a42
     type: content
+  - name: home
+    id: 03b98cfb-d861-4405-ac06-0978c0d72e3c
+    type: content
 favicon: null
 title: sit beside me
 purpose: []
