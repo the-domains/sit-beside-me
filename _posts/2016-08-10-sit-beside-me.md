@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T08:48:44.837Z'
+datePublished: '2016-08-10T09:23:18.831Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
 inFeed: false
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-10T08:48:44.448Z'
+dateModified: '2016-08-10T09:23:18.290Z'
 title: ''
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/91394319'
