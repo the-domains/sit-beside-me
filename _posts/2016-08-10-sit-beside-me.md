@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sit beside me - view film
-datePublished: '2016-08-10T11:52:42.284Z'
-dateModified: '2016-08-10T11:52:36.273Z'
+datePublished: '2016-08-10T12:00:30.916Z'
+dateModified: '2016-08-10T11:54:48.051Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
 related: []
 author: []
@@ -51,5 +51,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-Sit beside me - view film
+[Sit beside me - view film][0]
 ![Sit beside me - view film](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3002b72-07aa-4e61-b064-f21dc0914118.jpg)
+
+[0]: null
