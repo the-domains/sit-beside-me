@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-10T15:40:19.226Z'
-dateModified: '2016-08-10T15:40:16.425Z'
+datePublished: '2016-08-15T21:44:31.761Z'
+dateModified: '2016-08-15T21:44:31.199Z'
 publisher: {}
 author: []
 inFeed: false
@@ -10,8 +10,8 @@ hasPage: true
 inNav: false
 description: Sit beside me - view film
 via: {}
-starred: false
 sourcePath: _posts/2016-08-10-sit-beside-me.md
+starred: false
 url: sit-beside-me/index.html
 _type: MediaObject
 
