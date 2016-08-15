@@ -24,5 +24,9 @@ author:
   email: ''
 name: SitBesideMe
 cta: {}
+navigation:
+  - name: press kit
+    id: 47ee791e-bb52-4b50-a746-1fdbf8a0306a
+    type: content
 title: sit beside me
 purpose: []
