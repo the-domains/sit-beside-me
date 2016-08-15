@@ -1,12 +1,6 @@
-name: SitBesideMe
-layout_spectrum: 0.4936668847221881
 typography_spectrum: 0.6499382245820016
-cta: {}
-analytics:
-  google: UA-81046230-1
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#450003'
@@ -18,30 +12,17 @@ color:
   lightness: 0.2110294837038964
   saturation: 0.9708329641725868
   rhythmicContrast: 0.03632222185842693
-purpose: []
-title: sit beside me
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.4936668847221881
+analytics:
+  google: UA-81046230-1
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
-navigation:
-  - name: home
-    id: 03b98cfb-d861-4405-ac06-0978c0d72e3c
-    type: content
-  - name: view film
-    id: 4b58e0f2-c2e1-4109-9648-c4b87b8cb149
-    type: content
-  - name: press kit
-    id: 47ee791e-bb52-4b50-a746-1fdbf8a0306a
-    type: content
-  - name: about
-    id: 80d1a683-0a32-4672-865c-f23c21d37509
-    type: content
-  - name: ' gallery'
-    id: b9bf0802-491b-4184-bd83-1092e7add5c5
-    type: content
-  - name: contact
-    id: 0a20d189-f171-4aed-945b-423bee0d4a42
-    type: content
+name: SitBesideMe
+cta: {}
+title: sit beside me
+purpose: []
