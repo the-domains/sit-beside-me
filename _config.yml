@@ -37,5 +37,8 @@ navigation:
   - name: press kit
     id: 47ee791e-bb52-4b50-a746-1fdbf8a0306a
     type: content
+  - name: contact
+    id: 0a20d189-f171-4aed-945b-423bee0d4a42
+    type: content
 title: sit beside me
 purpose: []
