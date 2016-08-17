@@ -40,5 +40,8 @@ navigation:
   - name: contact
     id: 0a20d189-f171-4aed-945b-423bee0d4a42
     type: content
+  - name: about
+    id: 80d1a683-0a32-4672-865c-f23c21d37509
+    type: content
 title: sit beside me
 purpose: []
