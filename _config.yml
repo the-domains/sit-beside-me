@@ -1,5 +1,6 @@
-layout_spectrum: 0.019967122934758663
 typography_spectrum: 0.9640714786946774
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#F9E4AD'
@@ -11,11 +12,10 @@ color:
   lightness: 0.8360089610796422
   saturation: 0.2903486010618508
   rhythmicContrast: 0.13662005541846156
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.019967122934758663
 analytics:
   google: UA-81046230-1
 author:
@@ -43,5 +43,5 @@ navigation:
   - name: contact
     id: 0a20d189-f171-4aed-945b-423bee0d4a42
     type: content
-title: sit beside me
+title: ''
 purpose: []
