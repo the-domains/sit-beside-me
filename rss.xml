@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SitBesideMe]]></title>
         <description><![CDATA[SitBesideMe]]></description>
-        <link>https://thegrid.ai/sit-beside-me/</link>
+        <link>http://sitbesideme.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 16:51:47 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/sit-beside-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 19:13:43 GMT</lastBuildDate>
+        <atom:link href="http://sitbesideme.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Amidst the astonishing poverty of Calcutta streets, one woman creates a miraculous melting pot of potential where rich, poor, destitute, Hindu, Muslim, Christian, children unite, actively rewire their society and create a future of their own choosing. Meet Maya who at five years old managed to care for her 2 year-old sister for 6 months in the train station alone. Kali, a young girl from the street who now has the power not only to fight for her abused mother, but for the education and rights of women and girls in general. Saloni, Anamika, Agnes and others who are among thousands of other children who are reaching out to help and sit beside one another. Sit Beside Me is the story of a young Irish girl who longed to comfort the untouchables of her own classroom during World War 2. At 13, Cyril Mooney resolved to dedicate her life to helping those living in oppression on the margins of society. At 20, she went to India for life, to sit beside those most in need. There she opened the gates of her school to children of all castes, religions and social backgrounds, igniting a surprisingly simple yet radically effective revolution in education. Filmed over seven years in Calcutta, Sit Beside Me is a journey into the surprising lives of Sister Cyril’s children and how they are remaking their society one child at a time, from the inside out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e3c79ae1bd262ae74b9bc3f3f162623c359721d.jpg"></article>]]></description>
+            <link>http://sitbesideme.org/about/index.html</link>
+            <guid isPermaLink="false">80d1a683-0a32-4672-865c-f23c21d37509</guid>
+            <pubDate>Thu, 01 Sep 2016 19:13:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2cbbfd-db06-4209-97c5-2f0cb12bbe72.png">]]></description>
-            <link>https://thegrid.ai/sit-beside-me/03b98cfb-d861-4405-ac06-0978c0d72e3c/index.html</link>
+            <link>http://sitbesideme.org/03b98cfb-d861-4405-ac06-0978c0d72e3c/index.html</link>
             <guid isPermaLink="false">03b98cfb-d861-4405-ac06-0978c0d72e3c</guid>
             <pubDate>Tue, 30 Aug 2016 16:51:46 GMT</pubDate>
         </item>
