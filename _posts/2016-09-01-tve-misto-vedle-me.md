@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-09-01T22:49:07.882Z'
-isBasedOnUrl: 'https://vimeo.com/53594877'
+datePublished: '2016-09-01T22:49:31.979Z'
 keywords: []
 related: []
 author:
@@ -8,7 +7,7 @@ author:
     url: 'https://vimeo.com/user14540483'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T22:47:54.905Z'
+dateModified: '2016-09-01T22:49:31.172Z'
 title: Tvé místo vedle mě
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/53594877'
@@ -43,11 +42,10 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 description: view czech version
-starred: false
 sourcePath: _posts/2016-09-01-tve-misto-vedle-me.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: tve-misto-vedle-me/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
