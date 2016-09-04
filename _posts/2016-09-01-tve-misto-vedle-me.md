@@ -1,13 +1,12 @@
 ---
-datePublished: '2016-09-01T22:49:31.979Z'
+datePublished: '2016-09-01T22:55:23.828Z'
+sourcePath: _posts/2016-09-01-tve-misto-vedle-me.md
+hasPage: true
 keywords: []
 related: []
-author:
-  - name: School of Cyril Mooney
-    url: 'https://vimeo.com/user14540483'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-09-01T22:49:31.172Z'
+dateModified: '2016-09-01T22:55:22.899Z'
 title: Tvé místo vedle mě
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/53594877'
@@ -36,14 +35,8 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+publisher: {}
 description: view czech version
-sourcePath: _posts/2016-09-01-tve-misto-vedle-me.md
-hasPage: true
 starred: false
 url: tve-misto-vedle-me/index.html
 _context: 'http://schema.org'
