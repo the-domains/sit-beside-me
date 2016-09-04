@@ -4,7 +4,7 @@
         <description><![CDATA[SitBesideMe]]></description>
         <link>http://sitbesideme.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 22:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 22:49:10 GMT</lastBuildDate>
         <atom:link href="http://sitbesideme.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://sitbesideme.org/03b98cfb-d861-4405-ac06-0978c0d72e3c/index.html</link>
             <guid isPermaLink="false">03b98cfb-d861-4405-ac06-0978c0d72e3c</guid>
             <pubDate>Thu, 01 Sep 2016 22:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tvé místo vedle mě]]></title>
+            <description><![CDATA[<article><h1>Tvé místo vedle mě</h1><p>view czech version</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/208f369139f2fe42ec8c7d2c954e60f7/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F505330533_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/53594877</link>
+            <guid isPermaLink="false">f1971c85-f18f-46ea-b123-347d23f38b5a</guid>
+            <pubDate>Thu, 01 Sep 2016 22:49:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sit Beside Me]]></title>
