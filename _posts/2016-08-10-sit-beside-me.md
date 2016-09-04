@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T20:59:23.968Z'
+datePublished: '2016-09-01T22:44:09.258Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
 inFeed: true
 authors: []
@@ -10,10 +10,10 @@ author:
     url: 'https://vimeo.com/user14540483'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T20:59:23.370Z'
+dateModified: '2016-09-01T22:44:08.840Z'
 title: Sit Beside Me
 publisher: {}
-description: ''
+description: trailer
 inLanguage: null
 inNav: false
 starred: false
