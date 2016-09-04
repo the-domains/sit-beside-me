@@ -37,5 +37,8 @@ navigation:
   - name: contact
     id: 0a20d189-f171-4aed-945b-423bee0d4a42
     type: content
+  - name: view film
+    id: f1971c85-f18f-46ea-b123-347d23f38b5a
+    type: content
 title: ''
 purpose: []
