@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-22T09:32:26.370Z'
+datePublished: '2016-09-01T19:13:14.000Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
 inFeed: false
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T09:32:25.759Z'
+dateModified: '2016-09-01T19:13:13.361Z'
 title: ''
 publisher: {}
 description: Sit beside me - view film
