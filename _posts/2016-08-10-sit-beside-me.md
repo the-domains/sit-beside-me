@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T20:58:49.504Z'
+datePublished: '2016-09-01T20:59:23.968Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
 inFeed: true
 authors: []
@@ -10,12 +10,10 @@ author:
     url: 'https://vimeo.com/user14540483'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T20:58:49.028Z'
+dateModified: '2016-09-01T20:59:23.370Z'
 title: Sit Beside Me
 publisher: {}
-description: >-
-  This is "Sit Beside Me" by on Vimeo, the home for high quality videos and the
-  people who love them.
+description: ''
 inLanguage: null
 inNav: false
 starred: false
