@@ -1,17 +1,14 @@
 ---
-datePublished: '2016-09-01T22:48:39.491Z'
+datePublished: '2016-09-01T23:02:28.557Z'
 sourcePath: _posts/2016-08-10-sit-beside-me.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/91394319'
 authors: []
 hasPage: false
 keywords: []
-author:
-  - name: School of Cyril Mooney
-    url: 'https://vimeo.com/user14540483'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-09-01T22:48:38.693Z'
+dateModified: '2016-09-01T23:02:27.149Z'
 title: Sit Beside Me
 publisher: {}
 description: trailer
