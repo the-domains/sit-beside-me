@@ -4,7 +4,7 @@
         <description><![CDATA[SitBesideMe]]></description>
         <link>http://sitbesideme.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 22:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 22:48:41 GMT</lastBuildDate>
         <atom:link href="http://sitbesideme.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -16,9 +16,9 @@
         <item>
             <title><![CDATA[Sit Beside Me]]></title>
             <description><![CDATA[<article><h1>Sit Beside Me</h1><p>trailer</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6e8015fc4e73a6bb7154c2f71619f38/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F470727677_1280x720.jpg"></article>]]></description>
-            <link>http://sitbesideme.org/sit-beside-me/index.html</link>
+            <link>https://vimeo.com/91394319</link>
             <guid isPermaLink="false">4b58e0f2-c2e1-4109-9648-c4b87b8cb149</guid>
-            <pubDate>Thu, 01 Sep 2016 22:44:09 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 22:48:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
