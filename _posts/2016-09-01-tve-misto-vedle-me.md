@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T22:55:23.828Z'
+datePublished: '2016-09-01T22:58:58.264Z'
 sourcePath: _posts/2016-09-01-tve-misto-vedle-me.md
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-01T22:55:22.899Z'
+dateModified: '2016-09-01T22:58:55.362Z'
 title: Tvé místo vedle mě
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/53594877'
